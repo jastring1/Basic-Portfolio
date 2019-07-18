@@ -99,4 +99,17 @@ header{
  a:hover{
      color: #4aaaa5;
  }
+ .myform{
+    padding-top: 20px;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    line-height: 25px;
+    color: #666666;
+
+ }
+ .button{
+     font-weight: bold;
+     background-color: #4aaaa5;
+     color: #ffffff;
+     padding: 10px 20px 10px 20px;
+ }
 
